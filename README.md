@@ -1,4 +1,4 @@
-# Discriminative CNN for Multi-Class Object Recognition
+# Convolutional Neural Network for Multi-Class Object Classification
 
 ## Project Overview
 This project details the iterative design, development, and evaluation of 20 Convolutional Neural Network (CNN) models for classifying a 39-class image dataset (4,108 images). Starting from a simple 3-layer CNN, experiments were conducted to systematically optimize activation functions, pooling strategies, regularization, and other hyperparameters, culminating in a final model achieving **96.59% validation accuracy**.
